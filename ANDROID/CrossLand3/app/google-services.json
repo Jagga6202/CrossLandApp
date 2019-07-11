@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905512984227",
+    "firebase_url": "https://croandapp.firebaseio.com",
+    "project_id": "croandapp",
+    "storage_bucket": "croandapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905512984227:android:ce511a26589eb53a",
+        "android_client_info": {
+          "package_name": "com.example.crossland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905512984227-vqeqdulcbq5jal8ssk7sb7ft1sclt4f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crossland",
+            "certificate_hash": "6ab2561d2553d2d9ec37304bcfcc15ebbe523b7f"
+          }
+        },
+        {
+          "client_id": "905512984227-pnjqhl9ifr4gql3dggddfr9sjjtujqgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZMjHf6XUd-q1rOEKTPQXEMVnbRvyohOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905512984227-pnjqhl9ifr4gql3dggddfr9sjjtujqgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
